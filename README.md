@@ -1,6 +1,7 @@
 # :cinema: Cinema App :cinema:
 ___
 *Application that simulates a cinema service with the shopping cart and orders. Supports authentication, registration and other CRUD operations.*
+___
 ![Cinema](https://media3.giphy.com/media/2eKfq00HWfb91flICf/giphy.gif)
 
 ## :bulb: Functionality :bulb:
